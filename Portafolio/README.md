@@ -4,3 +4,4 @@ Cesar Ivan Mejia Azcona: (Equipo de Desarrollo)
 Erick Aarón Mejía Azcona: (Equipo de Desarrollo) 
 José Emmanuel Contreras Salinas: (Product Owner) 
 Trejo Ramos Alid: (Scrum Master)
+.
